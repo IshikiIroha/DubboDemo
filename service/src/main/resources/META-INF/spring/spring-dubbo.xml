@@ -16,3 +16,4 @@
     <dubbo:service weight="200" interface="cn.mldn.remoteapi.IMessage" ref="messageImpl" version="${dubbo.interface.version}" />
     <dubbo:monitor protocol="registry" />
 </beans>
+<!-- practice GitKraken -->
